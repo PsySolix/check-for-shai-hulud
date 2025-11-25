@@ -169,7 +169,7 @@ set +H 2>/dev/null || true
 
 # Set the script path - UPDATE THIS to your actual script location
 # Option 1: Use full path
-SCRIPT_PATH="/path/to/your/check-compromised-npm.sh"
+SCRIPT_PATH="../scripts/check-for-shai-hulud/check-compromised-npm.sh"
 # Option 2: If installed via symlink in PATH
 # SCRIPT_PATH="$(which check-compromised-npm.sh)"
 # Option 3: Relative to current directory
