@@ -26,7 +26,7 @@ The scanner supports:
 
 1. Download the script:
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/yourrepo/main/check-compromised-npm.sh
+   curl -O https://raw.githubusercontent.com/PsySolix/check-for-shai-hulud/main/check-compromised-npm.sh
    ```
 
 2. Make it executable:
